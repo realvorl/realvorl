@@ -11,9 +11,11 @@
   - basketball 
 
 ## 🌱 I’m currently learning 
+  - Python
   - Rust
-  - ARM assembly
+  - React.JS
   - Blender
+  - ARM assembly
 
 ## 💞️ I’m looking to collaborate
 
