@@ -1,6 +1,5 @@
-# 👋 Hi, I’m @realvorl or simply Veo
-> [![cusotm-badge](https://raw.githubusercontent.com/realvorl/realvorl/main/badges/vio-approved.svg)](https://viorel-petcu.com)
-
+# 👋 Hi, I’m @realvorl or simply Veo  
+[![cusotm-badge](https://bit.ly/v-here-badge)](/) [![cusotm-badge](https://bit.ly/v-app-badge)](https://viorel-petcu.com)  
 ## 👀 I’m interested in 
   - environmental protection
   - engineering
@@ -23,7 +22,7 @@
   On any of the topics from `interests`
   
 ## 📫 How to reach me
-Home Page: [viorel-petcu.com](https://vorl.uber.space/)  
+Home Page: [viorel-petcu.com](https://vorl.uber.space/) 
 X: [@veo_twit](https://twitter.com/Veo_twit)  
 DEV.TO: [@realvorl](https://dev.to/realvorl)  
 LinkedIn: [Viorel PETCU](https://www.linkedin.com/in/viorel-p-5832bb6a/)  
