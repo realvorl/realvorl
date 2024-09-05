@@ -1,0 +1,8 @@
+<svg height="25" width="150" xmlns="http://www.w3.org/2000/svg">
+  <a href="https://ko-fi.com/realvorl"> <!-- put your own URL here -->
+    <rect width="95" height="25" fill="#893233"/>
+    <rect x="95" width="55" height="25" fill="#ff5d5b"/>
+    <text text-anchor="middle" font-weight="bold" font-size="14" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" fill="#fff" x="47.5" y="50%" dy=".35em">Keep Calm</text>
+    <text text-anchor="middle" font-size="14" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" fill="#fff" x="122.5" y="50%" dy=".35em">♡ Ko-fi</text>
+  </a>
+</svg>
