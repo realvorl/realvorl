@@ -14,6 +14,10 @@ What’s included?
 - Security 
 - Monitoring
   
-![image](https://media.licdn.com/dms/image/v2/D4E22AQGxWaaIhJk_Pw/feedshare-shrink_1280/feedshare-shrink_1280/0/1724733529820?e=1728518400&v=beta&t=sU6Nzp1JKeyTXUVwwyj1Gn3iHXKDfWDqMXpM7zl8e6Q)
+![image](https://media.licdn.com/dms/image/v2/D4E22AQGxWaaIhJk_Pw/feedshare-shrink_1280/feedshare-shrink_1280/0/1724733529820?e=1728518400&v=beta&t=sU6Nzp1JKeyTXUVwwyj1Gn3iHXKDfWDqMXpM7zl8e6Q) 
+
+Credit [`ByteByteGo`](https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7234056747991126016-Lznr?utm_source=share&utm_medium=member_desktop)
+
+
 
 ---
