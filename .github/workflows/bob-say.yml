@@ -11,13 +11,12 @@ jobs:
   just-these:
     runs-on: ubuntu-latest
     container: 
-      image: viorelpe/ubuntools:latest
+      image: fedora:latest
       
     steps:
     - name: install software
       run: |
-        apt update
-        apt install cowsay -y
+        yum install cowsay -y
   
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -25,4 +24,3 @@ jobs:
     - name: saying [${{github.event.inputs.tools}}]
       run: |
         cowsay -f ./media/bob.cow "${{github.event.inputs.tools}}"
-  
