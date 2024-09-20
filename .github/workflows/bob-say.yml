@@ -23,4 +23,4 @@ jobs:
   
     - name: saying [${{github.event.inputs.tools}}]
       run: |
-        cowsay -f ./media/bob.cow "${{github.event.inputs.tools}}"
+        cowsay -f ../../media/bob.cow "${{github.event.inputs.tools}}"
