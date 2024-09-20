@@ -21,8 +21,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
   
-    - name: saying [${{github.event.inputs.tools}}]
+    - name: saying [${{github.event.inputs.what}}]
       run: |
         pwd
         cat ./media/bob.cow
-        cowsay -f ./media/bob.cow "${{github.event.inputs.tools}}"
+        cowsay -f ./media/bob.cow "${{github.event.inputs.what}}"
