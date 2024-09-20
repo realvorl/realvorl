@@ -10,9 +10,13 @@ on:
 jobs:
   just-these:
     runs-on: ubuntu-latest
+    container: 
+      image: viorelpe/ubuntools:latest
+      
     steps:
     - name: install software
       run: |
+        apt update
         apt install cowsay -y
   
     - name: Checkout repository
