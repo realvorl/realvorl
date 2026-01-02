@@ -4,15 +4,16 @@
   - environmental protection
   - engineering
   - technology
-  - recycling
+  - recycling & upcycling
   - open source software
   - linux kernel and driver development
   - mecanical design 
   - basketball 
 
 ## 🌱 I’m currently learning 
+  - Go
   - Python
-  - Rust
+  - ~Rust~ (paused for now)
   - Machine Learning
   - ARM assembly
   - Blender
