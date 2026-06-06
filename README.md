@@ -23,7 +23,7 @@
   On any of the topics from `interests`
   
 ## 📫 How to reach me
-Home Page: [viorel-petcu.com](https://vorl.uber.space/) 
+Home Page: [viorel-petcu.com](https://viorel-petcu.com/) 
 BlueSky 🦋: [@vorl](https://bsky.app/profile/vorl.bsky.social)  
 DEV.TO: [@realvorl](https://dev.to/realvorl)  
 LinkedIn: [Viorel PETCU](https://www.linkedin.com/in/viorel-p-5832bb6a/)  
