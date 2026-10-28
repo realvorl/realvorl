@@ -11,10 +11,10 @@
   - basketball 
 
 ## 🌱 I’m currently learning 
-  - Go
+  - [![go cheat sheet](./badges/go-succinctly.svg)](https://quickref.me/go) 
+  - Machine Learning
   - Python
   - ~Rust~ (paused for now)
-  - Machine Learning
   - ARM assembly
   - Blender
 
