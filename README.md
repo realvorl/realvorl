@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @realvorl or simply Veo  
-[![cusotm-badge](https://bit.ly/v-here-badge)](/) [![cusotm-badge](https://bit.ly/v-app-badge)](https://viorel-petcu.com)  
+
+[![boo scarry stuff](./badges/boo.svg)](https://www.stingrai.io/blog/ai-attributed-cve-tracker-2026-verified-credits#the-2026-ai-attributed-cve-tracker)   
+
 ## 👀 I’m interested in 
   - environmental protection
   - engineering
@@ -23,7 +25,7 @@
   On any of the topics from `interests`
   
 ## 📫 How to reach me
-Home Page: [viorel-petcu.com](https://viorel-petcu.com/) 
+Home Page: [![viorel-petcu.com](https://bit.ly/v-app-badge)](https://viorel-petcu.com)  
 BlueSky 🦋: [@vorl](https://bsky.app/profile/vorl.bsky.social)  
 DEV.TO: [@realvorl](https://dev.to/realvorl)  
 LinkedIn: [Viorel PETCU](https://www.linkedin.com/in/viorel-p-5832bb6a/)  
